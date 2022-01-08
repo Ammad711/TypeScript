@@ -1,0 +1,24 @@
+Typescript is developed and maintained by microsoft.
+It is typed superset of javascript and compiles down to plain javascript.
+Combines javascript with es6,es7,etc..
+It is superior to darkscript and coffeescript.
+Rename .js files to .ts it will still work fine.
+Javascript is dynamically typed while typescript adds type support to javascript.As a results,
+errors are identified early.
+Typescript will identify errors avoiding debugging on browser.
+Enhanced IDE support.It provides intelligent support. 
+Rapid growth and usage in wide applications.Main programming language of angular.
+In javascript, there are no classes but in typescript we have classes.
+
+Installation:-
+open cmd and write the commands
+npm install -g typescript
+tsc -v
+
+
+
+
+
+
+
+
